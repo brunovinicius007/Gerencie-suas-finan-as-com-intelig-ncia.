@@ -49,8 +49,7 @@
 4.  O sistema criará o banco de dados e as tabelas automaticamente.
 
 ### 🔑 Acesso Padrão (Teste)
-*   **E-mail:** `admin@teste.com`
-*   **Senha:** `123456`
+*   ** Link do site:** http://teste.liveblog365.com/index.php  **
 *   **Código de Cadastro:** `nero`
 
 ---
